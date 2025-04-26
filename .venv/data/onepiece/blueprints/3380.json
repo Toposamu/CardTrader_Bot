@@ -1,0 +1,167 @@
+[
+  {
+    "id": 255460,
+    "name": "Monkey.D.Luffy",
+    "rarity": "Leader",
+    "collector_number": "ST08-001",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/255460/monkey-d-luffy-starter-deck-monkey-d-luffy.jpg",
+    "card_url": "https://www.cardtrader.com/cards/255460",
+    "card_market_ids": [
+      727572
+    ]
+  },
+  {
+    "id": 255461,
+    "name": "Gaimon",
+    "rarity": "Common",
+    "collector_number": "ST08-003",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/255461/gaimon-starter-deck-monkey-d-luffy.jpg",
+    "card_url": "https://www.cardtrader.com/cards/255461",
+    "card_market_ids": [
+      727574
+    ]
+  },
+  {
+    "id": 255462,
+    "name": "Gum-Gum Bell",
+    "rarity": "Common",
+    "collector_number": "ST08-014",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/255462/gum-gum-bell-starter-deck-monkey-d-luffy.jpg",
+    "card_url": "https://www.cardtrader.com/cards/255462",
+    "card_market_ids": [
+      727585
+    ]
+  },
+  {
+    "id": 255463,
+    "name": "Gum-Gum Pistol",
+    "rarity": "Common",
+    "collector_number": "ST08-015",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/255463/gum-gum-pistol-starter-deck-monkey-d-luffy.jpg",
+    "card_url": "https://www.cardtrader.com/cards/255463",
+    "card_market_ids": [
+      727586
+    ]
+  },
+  {
+    "id": 255464,
+    "name": "Higuma",
+    "rarity": "Common",
+    "collector_number": "ST08-008",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/255464/higuma-starter-deck-monkey-d-luffy.jpg",
+    "card_url": "https://www.cardtrader.com/cards/255464",
+    "card_market_ids": [
+      727579
+    ]
+  },
+  {
+    "id": 255465,
+    "name": "Koby",
+    "rarity": "Common",
+    "collector_number": "ST08-004",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/255465/koby-starter-deck-monkey-d-luffy.jpg",
+    "card_url": "https://www.cardtrader.com/cards/255465",
+    "card_market_ids": [
+      727575
+    ]
+  },
+  {
+    "id": 255466,
+    "name": "Laboon",
+    "rarity": "Common",
+    "collector_number": "ST08-012",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/255466/laboon-starter-deck-monkey-d-luffy.jpg",
+    "card_url": "https://www.cardtrader.com/cards/255466",
+    "card_market_ids": [
+      727583
+    ]
+  },
+  {
+    "id": 255467,
+    "name": "Makino",
+    "rarity": "Common",
+    "collector_number": "ST08-009",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/255467/makino-starter-deck-monkey-d-luffy.jpg",
+    "card_url": "https://www.cardtrader.com/cards/255467",
+    "card_market_ids": [
+      727580
+    ]
+  },
+  {
+    "id": 255468,
+    "name": "Monkey.D.Garp",
+    "rarity": "Common",
+    "collector_number": "ST08-010",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/255468/monkey-d-garp-starter-deck-monkey-d-luffy.jpg",
+    "card_url": "https://www.cardtrader.com/cards/255468",
+    "card_market_ids": [
+      727581
+    ]
+  },
+  {
+    "id": 255469,
+    "name": "Monkey.D.Luffy",
+    "rarity": "Common",
+    "collector_number": "ST08-011",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/255469/monkey-d-luffy-starter-deck-monkey-d-luffy-255469.jpg",
+    "card_url": "https://www.cardtrader.com/cards/255469",
+    "card_market_ids": [
+      727582
+    ]
+  },
+  {
+    "id": 255470,
+    "name": "Mr.2.Bon.Kurei (Bentham)",
+    "rarity": "Common",
+    "collector_number": "ST08-013",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/255470/mr-2-bon-kurei-bentham-starter-deck-monkey-d-luffy.jpg",
+    "card_url": "https://www.cardtrader.com/cards/255470",
+    "card_market_ids": [
+      727584
+    ]
+  },
+  {
+    "id": 255471,
+    "name": "Nefeltari Vivi",
+    "rarity": "Common",
+    "collector_number": "ST08-007",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/255471/nefeltari-vivi-starter-deck-monkey-d-luffy.jpg",
+    "card_url": "https://www.cardtrader.com/cards/255471",
+    "card_market_ids": [
+      727578
+    ]
+  },
+  {
+    "id": 255472,
+    "name": "Shanks",
+    "rarity": "Super Rare",
+    "collector_number": "ST08-005",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/255472/shanks-starter-deck-monkey-d-luffy.jpg",
+    "card_url": "https://www.cardtrader.com/cards/255472",
+    "card_market_ids": [
+      727576
+    ]
+  },
+  {
+    "id": 255473,
+    "name": "Shirahoshi",
+    "rarity": "Common",
+    "collector_number": "ST08-006",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/255473/shirahoshi-starter-deck-monkey-d-luffy.jpg",
+    "card_url": "https://www.cardtrader.com/cards/255473",
+    "card_market_ids": [
+      727577
+    ]
+  },
+  {
+    "id": 255474,
+    "name": "Uta",
+    "rarity": "Super Rare",
+    "collector_number": "ST08-002",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/255474/uta-starter-deck-monkey-d-luffy.jpg",
+    "card_url": "https://www.cardtrader.com/cards/255474",
+    "card_market_ids": [
+      727573
+    ]
+  }
+]

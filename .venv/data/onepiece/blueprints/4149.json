@@ -1,0 +1,189 @@
+[
+  {
+    "id": 326632,
+    "name": "Kaya",
+    "rarity": "Promo",
+    "collector_number": "OP03-044",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/326632/kaya-dash-pack-vol-1-unnumbered-promos.png",
+    "card_url": "https://www.cardtrader.com/cards/326632",
+    "card_market_ids": [
+      818077
+    ]
+  },
+  {
+    "id": 326634,
+    "name": "Portgas.D.Ace",
+    "rarity": "Promo",
+    "collector_number": "ST15-005",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/326634/portgas-d-ace-premiere-edition-unnumbered-promos.png",
+    "card_url": "https://www.cardtrader.com/cards/326634",
+    "card_market_ids": [
+      818082
+    ]
+  },
+  {
+    "id": 326635,
+    "name": "Portgas.D.Ace",
+    "rarity": "Promo",
+    "collector_number": "ST15-005a",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/326635/portgas-d-ace-premiere-edition-alternate-art-french-promos.webp",
+    "card_url": "https://www.cardtrader.com/cards/326635",
+    "card_market_ids": [
+      818083
+    ]
+  },
+  {
+    "id": 326636,
+    "name": "Shanks",
+    "rarity": "Promo",
+    "collector_number": "ST16-004",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/326636/shanks-premiere-edition-french-promos.webp",
+    "card_url": "https://www.cardtrader.com/cards/326636",
+    "card_market_ids": [
+      818084
+    ]
+  },
+  {
+    "id": 326637,
+    "name": "Shanks",
+    "rarity": "Promo",
+    "collector_number": "ST16-004a",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/326637/shanks-premiere-edition-alternate-art-french-promos.webp",
+    "card_url": "https://www.cardtrader.com/cards/326637",
+    "card_market_ids": [
+      818085
+    ]
+  },
+  {
+    "id": 326638,
+    "name": "Boa Hancock",
+    "rarity": "Promo",
+    "collector_number": "ST17-004",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/326638/boa-hancock-premiere-edition-french-promos.webp",
+    "card_url": "https://www.cardtrader.com/cards/326638",
+    "card_market_ids": [
+      818086
+    ]
+  },
+  {
+    "id": 326640,
+    "name": "Boa Hancock",
+    "rarity": "Promo",
+    "collector_number": "ST17-004a",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/326640/boa-hancock-premiere-edition-alternate-art-french-promos.webp",
+    "card_url": "https://www.cardtrader.com/cards/326640",
+    "card_market_ids": [
+      818087
+    ]
+  },
+  {
+    "id": 326646,
+    "name": "Luffy-Tarou",
+    "rarity": "Promo",
+    "collector_number": "ST18-005",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/326646/luffy-tarou-premiere-edition-french-promos.webp",
+    "card_url": "https://www.cardtrader.com/cards/326646",
+    "card_market_ids": [
+      818088
+    ]
+  },
+  {
+    "id": 326647,
+    "name": "Luffy-Tarou",
+    "rarity": "Promo",
+    "collector_number": "ST18-005a",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/326647/luffy-tarou-premiere-edition-alternate-art-french-promos.webp",
+    "card_url": "https://www.cardtrader.com/cards/326647",
+    "card_market_ids": [
+      818089
+    ]
+  },
+  {
+    "id": 326648,
+    "name": "Tashigi",
+    "rarity": "Promo",
+    "collector_number": "ST19-003",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/326648/tashigi-premiere-edition-french-promos.webp",
+    "card_url": "https://www.cardtrader.com/cards/326648",
+    "card_market_ids": [
+      818090
+    ]
+  },
+  {
+    "id": 326649,
+    "name": "Tashigi",
+    "rarity": "Promo",
+    "collector_number": "ST19-003a",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/326649/tashigi-premiere-edition-alternate-art-french-promos.webp",
+    "card_url": "https://www.cardtrader.com/cards/326649",
+    "card_market_ids": [
+      818091
+    ]
+  },
+  {
+    "id": 326650,
+    "name": "Charlotte Linlin",
+    "rarity": "Promo",
+    "collector_number": "ST20-005",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/326650/charlotte-linlin-premiere-edition-french-promos.webp",
+    "card_url": "https://www.cardtrader.com/cards/326650",
+    "card_market_ids": [
+      818092
+    ]
+  },
+  {
+    "id": 326651,
+    "name": "Charlotte Linlin",
+    "rarity": "Promo",
+    "collector_number": "ST20-005a",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/326651/charlotte-linlin-premiere-edition-alternate-art-french-promos.webp",
+    "card_url": "https://www.cardtrader.com/cards/326651",
+    "card_market_ids": [
+      818093
+    ]
+  },
+  {
+    "id": 326652,
+    "name": "Jewelry Bonney",
+    "rarity": "Promo",
+    "collector_number": "ST02-007",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/326652/jewelry-bonney-french-promos.webp",
+    "card_url": "https://www.cardtrader.com/cards/326652",
+    "card_market_ids": [
+      818110
+    ]
+  },
+  {
+    "id": 326653,
+    "name": "Because the Side of Justice Will Be Whichever Side Wins!!",
+    "rarity": "Promo",
+    "collector_number": "OP05-037",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/326653/because-the-side-of-justice-will-be-whichever-side-wins-french-promos.webp",
+    "card_url": "https://www.cardtrader.com/cards/326653",
+    "card_market_ids": [
+      818112
+    ]
+  },
+  {
+    "id": 326654,
+    "name": "When You're at Sea You Fight against Pirates!!",
+    "rarity": "Promo",
+    "collector_number": "OP05-076",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/326654/when-you-re-at-sea-you-fight-against-pirates-french-promos.webp",
+    "card_url": "https://www.cardtrader.com/cards/326654",
+    "card_market_ids": [
+      818113
+    ]
+  },
+  {
+    "id": 326656,
+    "name": "You're the One Who Should Disappear.",
+    "rarity": "Promo",
+    "collector_number": "OP06-115",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/326656/you-re-the-one-who-should-disappear-french-promos.webp",
+    "card_url": "https://www.cardtrader.com/cards/326656",
+    "card_market_ids": [
+      818114
+    ]
+  }
+]

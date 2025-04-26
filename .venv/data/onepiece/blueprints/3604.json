@@ -1,0 +1,77 @@
+[
+  {
+    "id": 275346,
+    "name": "Uta",
+    "rarity": "Super Rare",
+    "collector_number": "ST11-002",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/275346/uta-st-11-starter-deck-uta.jpg",
+    "card_url": "https://www.cardtrader.com/cards/275346",
+    "card_market_ids": [
+      754834
+    ]
+  },
+  {
+    "id": 275347,
+    "name": "Uta",
+    "rarity": "Leader",
+    "collector_number": "ST11-001",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/275347/uta-st-11-starter-deck-uta-275347.jpg",
+    "card_url": "https://www.cardtrader.com/cards/275347",
+    "card_market_ids": [
+      754833
+    ]
+  },
+  {
+    "id": 275348,
+    "name": "Backlight",
+    "rarity": "Common",
+    "collector_number": "ST11-003",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/275348/backlight-st-11-starter-deck-uta.jpg",
+    "card_url": "https://www.cardtrader.com/cards/275348",
+    "card_market_ids": [
+      754835
+    ]
+  },
+  {
+    "id": 275349,
+    "name": "New Genesis",
+    "rarity": "Super Rare",
+    "collector_number": "ST11-004",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/275349/new-genesis-st-11-starter-deck-uta.jpg",
+    "card_url": "https://www.cardtrader.com/cards/275349",
+    "card_market_ids": [
+      754836
+    ]
+  },
+  {
+    "id": 275350,
+    "name": "I'm invincible",
+    "rarity": "Common",
+    "collector_number": "ST11-005",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/275350/i-m-invincible-st-11-starter-deck-uta.jpg",
+    "card_url": "https://www.cardtrader.com/cards/275350",
+    "card_market_ids": [
+      754837
+    ]
+  },
+  {
+    "id": 277441,
+    "name": "Monkey.D.Luffy",
+    "rarity": "Common",
+    "collector_number": "OP02-041",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/277441/monkey-d-luffy-non-foil-st-11-starter-deck-uta.jpg",
+    "card_url": "https://www.cardtrader.com/cards/277441",
+    "card_market_ids": []
+  },
+  {
+    "id": 285315,
+    "name": "Brook",
+    "rarity": "Rare",
+    "collector_number": "OP02-040",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/285315/brook-non-foil-reprint-st-11-starter-deck-uta.jpg",
+    "card_url": "https://www.cardtrader.com/cards/285315",
+    "card_market_ids": [
+      765979
+    ]
+  }
+]

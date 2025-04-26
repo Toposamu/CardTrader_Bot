@@ -1,0 +1,376 @@
+[
+  {
+    "id": 245246,
+    "name": "Eustass\"Captain\"Kid",
+    "rarity": "Leader",
+    "collector_number": "ST02-001p",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245246/eustass-captain-kid-super-pre-release-stamp-starter-deck-straw-hat-crew.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245246",
+    "card_market_ids": [
+      691015
+    ]
+  },
+  {
+    "id": 245247,
+    "name": "Vito",
+    "rarity": "Common",
+    "collector_number": "ST02-002",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245247/vito-starter-deck-worst-generation.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245247",
+    "card_market_ids": [
+      691017
+    ]
+  },
+  {
+    "id": 245248,
+    "name": "Vito",
+    "rarity": "Common",
+    "collector_number": "ST02-002p",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245248/vito-copy-super-pre-release-stamp-starter-deck-worst-generation.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245248",
+    "card_market_ids": [
+      691018
+    ]
+  },
+  {
+    "id": 245249,
+    "name": "Urouge",
+    "rarity": "Common",
+    "collector_number": "ST02-003",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245249/urouge-starter-deck-worst-generation.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245249",
+    "card_market_ids": [
+      691022
+    ]
+  },
+  {
+    "id": 245250,
+    "name": "Urouge",
+    "rarity": "Common",
+    "collector_number": "ST02-003p",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245250/urouge-starter-deck-worst-generation-245250.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245250",
+    "card_market_ids": [
+      691020
+    ]
+  },
+  {
+    "id": 245251,
+    "name": "Capone\"Gang\"Bege",
+    "rarity": "Common",
+    "collector_number": "ST02-004",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245251/capone-gang-bege-starter-deck-worst-generation.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245251",
+    "card_market_ids": [
+      691023
+    ]
+  },
+  {
+    "id": 245252,
+    "name": "Capone\"Gang\"Bege",
+    "rarity": "Common",
+    "collector_number": "ST02-004p",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245252/capone-gang-bege-super-pre-release-stamp-starter-deck-worst-generation.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245252",
+    "card_market_ids": [
+      691024
+    ]
+  },
+  {
+    "id": 245253,
+    "name": "Killer",
+    "rarity": "Common",
+    "collector_number": "ST02-005",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245253/killer-1st-print-errata-card-k-o-1-of-your-opponent-s-rested-characters-starter-deck-worst-generation.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245253",
+    "card_market_ids": [
+      691026
+    ]
+  },
+  {
+    "id": 245254,
+    "name": "Killer",
+    "rarity": "Common",
+    "collector_number": "ST02-005p",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245254/killer-super-pre-release-stamp-starter-deck-worst-generation.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245254",
+    "card_market_ids": [
+      691025
+    ]
+  },
+  {
+    "id": 245255,
+    "name": "Koby",
+    "rarity": "Common",
+    "collector_number": "ST02-006",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245255/koby-starter-deck-worst-generation.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245255",
+    "card_market_ids": [
+      691027
+    ]
+  },
+  {
+    "id": 245256,
+    "name": "Koby",
+    "rarity": "Common",
+    "collector_number": "ST02-006p",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245256/koby-super-pre-release-stamp-starter-deck-worst-generation.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245256",
+    "card_market_ids": [
+      691028
+    ]
+  },
+  {
+    "id": 245257,
+    "name": "Jewelry Bonney",
+    "rarity": "Common",
+    "collector_number": "ST02-007",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245257/jewelry-bonney-starter-deck-worst-generation.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245257",
+    "card_market_ids": [
+      691031
+    ]
+  },
+  {
+    "id": 245258,
+    "name": "Jewelry Bonney",
+    "rarity": "Common",
+    "collector_number": "ST02-007p",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245258/jewelry-bonney-super-pre-release-stamp-starter-deck-worst-generation.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245258",
+    "card_market_ids": [
+      691030
+    ]
+  },
+  {
+    "id": 245260,
+    "name": "Scratchmen Apoo",
+    "rarity": "Common",
+    "collector_number": "ST02-008",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245260/scratchmen-apoo-starter-deck-worst-generation.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245260",
+    "card_market_ids": [
+      691032
+    ]
+  },
+  {
+    "id": 245261,
+    "name": "Scratchmen Apoo",
+    "rarity": "Common",
+    "collector_number": "ST02-008p",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245261/scratchmen-apoo-super-pre-release-stamp-starter-deck-worst-generation.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245261",
+    "card_market_ids": [
+      691033
+    ]
+  },
+  {
+    "id": 245263,
+    "name": "Trafalgar Law",
+    "rarity": "Super Rare",
+    "collector_number": "ST02-009",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245263/trafalgar-law-starter-deck-worst-generation.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245263",
+    "card_market_ids": [
+      691035
+    ]
+  },
+  {
+    "id": 245264,
+    "name": "Trafalgar Law",
+    "rarity": "Super Rare",
+    "collector_number": "ST02-009p",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245264/trafalgar-law-super-pre-release-stamp-starter-deck-worst-generation.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245264",
+    "card_market_ids": [
+      691034
+    ]
+  },
+  {
+    "id": 245265,
+    "name": "Basil Hawkins",
+    "rarity": "Common",
+    "collector_number": "ST02-010",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245265/basil-hawkins-starter-deck-worst-generation.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245265",
+    "card_market_ids": [
+      691036
+    ]
+  },
+  {
+    "id": 245267,
+    "name": "Basil Hawkins",
+    "rarity": "Common",
+    "collector_number": "ST02-010p",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245267/basil-hawkins-super-pre-release-stamp-starter-deck-worst-generation.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245267",
+    "card_market_ids": [
+      691037
+    ]
+  },
+  {
+    "id": 245268,
+    "name": "Heat",
+    "rarity": "Common",
+    "collector_number": "ST02-011",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245268/heat-starter-deck-worst-generation.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245268",
+    "card_market_ids": [
+      691039
+    ]
+  },
+  {
+    "id": 245269,
+    "name": "Heat",
+    "rarity": "Common",
+    "collector_number": "ST02-011p",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245269/heat-super-pre-release-stamp-starter-deck-worst-generation.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245269",
+    "card_market_ids": [
+      691038
+    ]
+  },
+  {
+    "id": 245271,
+    "name": "Bepo",
+    "rarity": "Common",
+    "collector_number": "ST02-012",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245271/bepo-starter-deck-worst-generation.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245271",
+    "card_market_ids": [
+      691040
+    ]
+  },
+  {
+    "id": 245272,
+    "name": "Bepo",
+    "rarity": "Common",
+    "collector_number": "ST02-012p",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245272/bepo-super-pre-release-stamp-starter-deck-worst-generation.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245272",
+    "card_market_ids": [
+      691041
+    ]
+  },
+  {
+    "id": 245273,
+    "name": "Eustass\"Captain\"Kid",
+    "rarity": "Super Rare",
+    "collector_number": "ST02-013",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245273/eustass-captain-kid-starter-deck-worst-generation.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245273",
+    "card_market_ids": [
+      691043
+    ]
+  },
+  {
+    "id": 245275,
+    "name": "Eustass\"Captain\"Kid",
+    "rarity": "Super Rare",
+    "collector_number": "ST02-013p",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245275/eustass-captain-kid-super-pre-release-stamp-starter-deck-worst-generation-245275.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245275",
+    "card_market_ids": [
+      691042
+    ]
+  },
+  {
+    "id": 245276,
+    "name": "X.Drake",
+    "rarity": "Common",
+    "collector_number": "ST02-014",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245276/x-drake-starter-deck-worst-generation.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245276",
+    "card_market_ids": [
+      691044
+    ]
+  },
+  {
+    "id": 245278,
+    "name": "X.Drake",
+    "rarity": "Common",
+    "collector_number": "ST02-014p",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245278/x-drake-super-pre-release-stamp-starter-deck-worst-generation.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245278",
+    "card_market_ids": [
+      691045
+    ]
+  },
+  {
+    "id": 245279,
+    "name": "Scalpel",
+    "rarity": "Common",
+    "collector_number": "ST02-015",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245279/scalpel-starter-deck-worst-generation.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245279",
+    "card_market_ids": [
+      691047
+    ]
+  },
+  {
+    "id": 245280,
+    "name": "Scalpel",
+    "rarity": "Common",
+    "collector_number": "ST02-015p",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245280/scalpel-super-pre-release-stamp-starter-deck-worst-generation.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245280",
+    "card_market_ids": [
+      691046
+    ]
+  },
+  {
+    "id": 245281,
+    "name": "Repel",
+    "rarity": "Common",
+    "collector_number": "ST02-016",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245281/repel-1st-print-errata-card-your-leader-or-1-of-your-characters-starter-deck-worst-generation.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245281",
+    "card_market_ids": [
+      691048
+    ]
+  },
+  {
+    "id": 245283,
+    "name": "Repel",
+    "rarity": "Common",
+    "collector_number": "ST02-016p",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245283/repel-super-pre-release-stamp-starter-deck-worst-generation.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245283",
+    "card_market_ids": [
+      691049
+    ]
+  },
+  {
+    "id": 245284,
+    "name": "Straw Sword",
+    "rarity": "Common",
+    "collector_number": "ST02-017",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245284/straw-sword-starter-deck-worst-generation.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245284",
+    "card_market_ids": [
+      691051
+    ]
+  },
+  {
+    "id": 245286,
+    "name": "Straw Sword",
+    "rarity": "Common",
+    "collector_number": "ST02-017p",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245286/straw-sword-super-pre-release-stamp-starter-deck-worst-generation.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245286",
+    "card_market_ids": [
+      691050
+    ]
+  },
+  {
+    "id": 245287,
+    "name": "Eustass\"Captain\"Kid",
+    "rarity": "Leader",
+    "collector_number": "ST02-001",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245287/eustass-captain-kid-starter-deck-worst-generation-245287.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245287",
+    "card_market_ids": [
+      691016
+    ]
+  }
+]

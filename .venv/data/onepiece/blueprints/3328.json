@@ -1,0 +1,376 @@
+[
+  {
+    "id": 245330,
+    "name": "Kaido",
+    "rarity": "Leader",
+    "collector_number": "ST04-001p",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245330/kaido-super-pre-release-stamp-starter-deck-animal-kingdom-pirates.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245330",
+    "card_market_ids": [
+      691095
+    ]
+  },
+  {
+    "id": 245331,
+    "name": "Kaido",
+    "rarity": "Leader",
+    "collector_number": "ST04-001",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245331/kaido-foil-leader-starter-deck-animal-kingdom-pirates.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245331",
+    "card_market_ids": [
+      691094
+    ]
+  },
+  {
+    "id": 245332,
+    "name": "Ulti",
+    "rarity": "Common",
+    "collector_number": "ST04-002",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245332/ulti-errata-card-play-1-page1-card-starter-deck-animal-kingdom-pirates.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245332",
+    "card_market_ids": [
+      691097
+    ]
+  },
+  {
+    "id": 245333,
+    "name": "Ulti",
+    "rarity": "Common",
+    "collector_number": "ST04-002p",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245333/ulti-starter-deck-animal-kingdom-pirates-245333.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245333",
+    "card_market_ids": [
+      691096
+    ]
+  },
+  {
+    "id": 245334,
+    "name": "Kaido",
+    "rarity": "Super Rare",
+    "collector_number": "ST04-003",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245334/kaido-starter-deck-animal-kingdom-pirates-245334.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245334",
+    "card_market_ids": [
+      691098
+    ]
+  },
+  {
+    "id": 245335,
+    "name": "Kaido",
+    "rarity": "Super Rare",
+    "collector_number": "ST04-003p",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245335/kaido-super-pre-release-stamp-starter-deck-animal-kingdom-pirates-245335.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245335",
+    "card_market_ids": [
+      691099
+    ]
+  },
+  {
+    "id": 245336,
+    "name": "King",
+    "rarity": "Super Rare",
+    "collector_number": "ST04-004",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245336/king-starter-deck-animal-kingdom-pirates.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245336",
+    "card_market_ids": [
+      691106
+    ]
+  },
+  {
+    "id": 245337,
+    "name": "King",
+    "rarity": "Super Rare",
+    "collector_number": "ST04-004p",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245337/king-super-pre-release-stamp-starter-deck-animal-kingdom-pirates.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245337",
+    "card_market_ids": [
+      691100
+    ]
+  },
+  {
+    "id": 245338,
+    "name": "Queen",
+    "rarity": "Common",
+    "collector_number": "ST04-005",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245338/queen-starter-deck-animal-kingdom-pirates.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245338",
+    "card_market_ids": [
+      691115
+    ]
+  },
+  {
+    "id": 245339,
+    "name": "Queen",
+    "rarity": "Common",
+    "collector_number": "ST04-005p",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245339/queen-super-pre-release-stamp-starter-deck-animal-kingdom-pirates.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245339",
+    "card_market_ids": [
+      691117
+    ]
+  },
+  {
+    "id": 245340,
+    "name": "Sasaki",
+    "rarity": "Common",
+    "collector_number": "ST04-006",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245340/sasaki-starter-deck-animal-kingdom-pirates.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245340",
+    "card_market_ids": [
+      691122
+    ]
+  },
+  {
+    "id": 245341,
+    "name": "Sasaki",
+    "rarity": "Common",
+    "collector_number": "ST04-006p",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245341/sasaki-super-pre-release-stamp-starter-deck-animal-kingdom-pirates.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245341",
+    "card_market_ids": [
+      691121
+    ]
+  },
+  {
+    "id": 245342,
+    "name": "Sheepshead",
+    "rarity": "Common",
+    "collector_number": "ST04-007",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245342/sheepshead-starter-deck-animal-kingdom-pirates.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245342",
+    "card_market_ids": [
+      691126
+    ]
+  },
+  {
+    "id": 245343,
+    "name": "Sheepshead",
+    "rarity": "Common",
+    "collector_number": "ST04-007p",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245343/sheepshead-super-pre-release-stamp-starter-deck-animal-kingdom-pirates.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245343",
+    "card_market_ids": [
+      691129
+    ]
+  },
+  {
+    "id": 245344,
+    "name": "Jack",
+    "rarity": "Common",
+    "collector_number": "ST04-008",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245344/jack-starter-deck-animal-kingdom-pirates.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245344",
+    "card_market_ids": [
+      691139
+    ]
+  },
+  {
+    "id": 245345,
+    "name": "Jack",
+    "rarity": "Common",
+    "collector_number": "ST04-008p",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245345/jack-super-pre-release-stamp-starter-deck-animal-kingdom-pirates.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245345",
+    "card_market_ids": [
+      691138
+    ]
+  },
+  {
+    "id": 245346,
+    "name": "Ginrummy",
+    "rarity": "Common",
+    "collector_number": "ST04-009",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245346/ginrummy-starter-deck-animal-kingdom-pirates.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245346",
+    "card_market_ids": [
+      691142
+    ]
+  },
+  {
+    "id": 245347,
+    "name": "Ginrummy",
+    "rarity": "Common",
+    "collector_number": "ST04-009p",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245347/ginrummy-super-pre-release-stamp-starter-deck-animal-kingdom-pirates.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245347",
+    "card_market_ids": [
+      691145
+    ]
+  },
+  {
+    "id": 245348,
+    "name": "Who's.Who",
+    "rarity": "Common",
+    "collector_number": "ST04-010",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245348/who-s-who-starter-deck-animal-kingdom-pirates.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245348",
+    "card_market_ids": [
+      691154
+    ]
+  },
+  {
+    "id": 245349,
+    "name": "Who's.Who",
+    "rarity": "Common",
+    "collector_number": "ST04-010p",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245349/who-s-who-super-pre-release-stamp-starter-deck-animal-kingdom-pirates.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245349",
+    "card_market_ids": [
+      691148
+    ]
+  },
+  {
+    "id": 245350,
+    "name": "Black Maria",
+    "rarity": "Common",
+    "collector_number": "ST04-011",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245350/black-maria-starter-deck-animal-kingdom-pirates.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245350",
+    "card_market_ids": [
+      691157
+    ]
+  },
+  {
+    "id": 245351,
+    "name": "Black Maria",
+    "rarity": "Common",
+    "collector_number": "ST04-011p",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245351/black-maria-super-pre-release-stamp-starter-deck-animal-kingdom-pirates.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245351",
+    "card_market_ids": [
+      691162
+    ]
+  },
+  {
+    "id": 245352,
+    "name": "Page One",
+    "rarity": "Common",
+    "collector_number": "ST04-012",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245352/page-one-starter-deck-animal-kingdom-pirates.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245352",
+    "card_market_ids": [
+      691167
+    ]
+  },
+  {
+    "id": 245353,
+    "name": "Page One",
+    "rarity": "Common",
+    "collector_number": "ST04-012p",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245353/page-one-super-pre-release-stamp-starter-deck-animal-kingdom-pirates.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245353",
+    "card_market_ids": [
+      691166
+    ]
+  },
+  {
+    "id": 245354,
+    "name": "X.Drake",
+    "rarity": "Common",
+    "collector_number": "ST04-013",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245354/x-drake-starter-deck-animal-kingdom-pirates.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245354",
+    "card_market_ids": [
+      691191
+    ]
+  },
+  {
+    "id": 245355,
+    "name": "X.Drake",
+    "rarity": "Common",
+    "collector_number": "ST04-013p",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245355/x-drake-super-pre-release-stamp-starter-deck-animal-kingdom-pirates.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245355",
+    "card_market_ids": [
+      691192
+    ]
+  },
+  {
+    "id": 245356,
+    "name": "Lead Performer \"Disaster\"",
+    "rarity": "Common",
+    "collector_number": "ST04-014",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245356/lead-performer-disaster-1st-print-errata-card-then-add-1-card-starter-deck-animal-kingdom-pirates.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245356",
+    "card_market_ids": [
+      691199
+    ]
+  },
+  {
+    "id": 245357,
+    "name": "Lead Performer \"Disaster\"",
+    "rarity": "Common",
+    "collector_number": "ST04-014p",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245357/lead-performer-disaster-super-pre-release-stamp-starter-deck-animal-kingdom-pirates.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245357",
+    "card_market_ids": [
+      691194
+    ]
+  },
+  {
+    "id": 245358,
+    "name": "Brachio Bomber",
+    "rarity": "Common",
+    "collector_number": "ST04-015",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245358/brachio-bomber-starter-deck-animal-kingdom-pirates.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245358",
+    "card_market_ids": [
+      691205
+    ]
+  },
+  {
+    "id": 245359,
+    "name": "Brachio Bomber",
+    "rarity": "Common",
+    "collector_number": "ST04-015p",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245359/brachio-bomber-super-pre-release-stamp-starter-deck-animal-kingdom-pirates.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245359",
+    "card_market_ids": [
+      691207
+    ]
+  },
+  {
+    "id": 245360,
+    "name": "Blast Breath",
+    "rarity": "Common",
+    "collector_number": "ST04-016",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245360/blast-breath-1st-print-errata-card-your-leader-or-1-of-your-characters-starter-deck-animal-kingdom-pirates.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245360",
+    "card_market_ids": [
+      691212
+    ]
+  },
+  {
+    "id": 245361,
+    "name": "Blast Breath",
+    "rarity": "Common",
+    "collector_number": "ST04-016p",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245361/blast-breath-super-pre-release-stamp-starter-deck-animal-kingdom-pirates.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245361",
+    "card_market_ids": [
+      691210
+    ]
+  },
+  {
+    "id": 245362,
+    "name": "Onigashima Island",
+    "rarity": "Common",
+    "collector_number": "ST04-017",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245362/onigashima-island-1st-print-errata-card-add-1-don-card-starter-deck-animal-kingdom-pirates.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245362",
+    "card_market_ids": [
+      691219
+    ]
+  },
+  {
+    "id": 245363,
+    "name": "Onigashima Island",
+    "rarity": "Common",
+    "collector_number": "ST04-017p",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/245363/onigashima-island-step-and-compleat-foil-starter-deck-animal-kingdom-pirates.jpg",
+    "card_url": "https://www.cardtrader.com/cards/245363",
+    "card_market_ids": [
+      691221
+    ]
+  }
+]

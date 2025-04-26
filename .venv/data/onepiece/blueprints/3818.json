@@ -1,0 +1,46 @@
+[
+  {
+    "id": 256642,
+    "name": "Portgas.D.Ace",
+    "rarity": "Promo",
+    "collector_number": "P-026m",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/256642/portgas-d-ace-magazine-promo-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/256642",
+    "card_market_ids": [
+      707718
+    ]
+  },
+  {
+    "id": 294208,
+    "name": "Monkey.D.Luffy",
+    "rarity": "Promo",
+    "collector_number": "P-041p",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/294208/monkey-d-luffy-one-year-anniversary-promo-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/294208",
+    "card_market_ids": [
+      738956
+    ]
+  },
+  {
+    "id": 295314,
+    "name": "Monkey.D.Luffy",
+    "rarity": "Promo",
+    "collector_number": "P-001",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/295314/monkey-d-luffy-7-eleven-campaign-promo-asian-promos.png",
+    "card_url": "https://www.cardtrader.com/cards/295314",
+    "card_market_ids": [
+      738948
+    ]
+  },
+  {
+    "id": 295316,
+    "name": "Trafalgar Law",
+    "rarity": "Promo",
+    "collector_number": "P-017",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/295316/trafalgar-law-asian-winner-promo-asian-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/295316",
+    "card_market_ids": [
+      756314
+    ]
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "id": 305505,
+    "name": "Uta",
+    "rarity": "Super Rare",
+    "collector_number": "ST16-001",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/305505/uta-st-16-starter-deck-green-uta.jpg",
+    "card_url": "https://www.cardtrader.com/cards/305505",
+    "card_market_ids": [
+      794643
+    ]
+  },
+  {
+    "id": 305506,
+    "name": "Where the Wind Blows",
+    "rarity": "Promo",
+    "collector_number": "P-058",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/305506/where-the-wind-blows-st-16-starter-deck-green-uta.jpg",
+    "card_url": "https://www.cardtrader.com/cards/305506",
+    "card_market_ids": [
+      794636
+    ]
+  },
+  {
+    "id": 305507,
+    "name": "Tot Musica",
+    "rarity": "Promo",
+    "collector_number": "P-060",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/305507/tot-musica-st-16-starter-deck-green-uta.jpg",
+    "card_url": "https://www.cardtrader.com/cards/305507",
+    "card_market_ids": [
+      794638
+    ]
+  },
+  {
+    "id": 305508,
+    "name": "The World's Continuation",
+    "rarity": "Promo",
+    "collector_number": "P-059",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/305508/the-world-s-continuation-st-16-starter-deck-green-uta.jpg",
+    "card_url": "https://www.cardtrader.com/cards/305508",
+    "card_market_ids": [
+      794637
+    ]
+  },
+  {
+    "id": 305509,
+    "name": "Shanks",
+    "rarity": "Super Rare",
+    "collector_number": "ST16-004",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/305509/shanks-st-16-starter-deck-green-uta.jpg",
+    "card_url": "https://www.cardtrader.com/cards/305509",
+    "card_market_ids": [
+      794646
+    ]
+  },
+  {
+    "id": 305510,
+    "name": "New Genesis",
+    "rarity": "Super Rare",
+    "collector_number": "ST11-004",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/305510/new-genesis-st-16-starter-deck-green-uta.jpg",
+    "card_url": "https://www.cardtrader.com/cards/305510",
+    "card_market_ids": [
+      794641
+    ]
+  },
+  {
+    "id": 305511,
+    "name": "Monkey.D.Luffy",
+    "rarity": "Common",
+    "collector_number": "ST16-005",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/305511/monkey-d-luffy-st-16-starter-deck-green-uta.jpg",
+    "card_url": "https://www.cardtrader.com/cards/305511",
+    "card_market_ids": [
+      794647
+    ]
+  },
+  {
+    "id": 305512,
+    "name": "Monkey.D.Luffy",
+    "rarity": "Promo",
+    "collector_number": "P-061",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/305512/monkey-d-luffy-st-16-starter-deck-green-uta-305512.jpg",
+    "card_url": "https://www.cardtrader.com/cards/305512",
+    "card_market_ids": [
+      795690
+    ]
+  },
+  {
+    "id": 305513,
+    "name": "I'm invincible",
+    "rarity": "Common",
+    "collector_number": "ST11-005",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/305513/i-m-invincible-st-16-starter-deck-green-uta.jpg",
+    "card_url": "https://www.cardtrader.com/cards/305513",
+    "card_market_ids": [
+      794642
+    ]
+  },
+  {
+    "id": 305514,
+    "name": "Gordon",
+    "rarity": "Common",
+    "collector_number": "ST16-002",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/305514/gordon-st-16-starter-deck-green-uta.jpg",
+    "card_url": "https://www.cardtrader.com/cards/305514",
+    "card_market_ids": [
+      794644
+    ]
+  },
+  {
+    "id": 305515,
+    "name": "Fleeting Lullaby",
+    "rarity": "Promo",
+    "collector_number": "P-057",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/305515/fleeting-lullaby-st-16-starter-deck-green-uta.jpg",
+    "card_url": "https://www.cardtrader.com/cards/305515",
+    "card_market_ids": [
+      794635
+    ]
+  },
+  {
+    "id": 305516,
+    "name": "Charlotte Katakuri",
+    "rarity": "Common",
+    "collector_number": "ST16-003",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/305516/charlotte-katakuri-st-16-starter-deck-green-uta.jpg",
+    "card_url": "https://www.cardtrader.com/cards/305516",
+    "card_market_ids": [
+      794645
+    ]
+  },
+  {
+    "id": 305517,
+    "name": "Bartolomeo",
+    "rarity": "Promo",
+    "collector_number": "P-029",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/305517/bartolomeo-st-16-starter-deck-green-uta.jpg",
+    "card_url": "https://www.cardtrader.com/cards/305517",
+    "card_market_ids": [
+      794634
+    ]
+  },
+  {
+    "id": 305518,
+    "name": "Backlight",
+    "rarity": "Common",
+    "collector_number": "ST11-003",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/305518/backlight-st-16-starter-deck-green-uta.jpg",
+    "card_url": "https://www.cardtrader.com/cards/305518",
+    "card_market_ids": [
+      794640
+    ]
+  },
+  {
+    "id": 305519,
+    "name": "Uta",
+    "rarity": "Leader",
+    "collector_number": "ST11-001",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/305519/uta-st-16-starter-deck-green-uta-305519.jpg",
+    "card_url": "https://www.cardtrader.com/cards/305519",
+    "card_market_ids": [
+      794639
+    ]
+  }
+]

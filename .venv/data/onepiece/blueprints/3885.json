@@ -1,0 +1,827 @@
+[
+  {
+    "id": 301221,
+    "name": "Alber",
+    "rarity": "Uncommon",
+    "collector_number": "OP08-059",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301221/alber-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301221",
+    "card_market_ids": [
+      788371
+    ]
+  },
+  {
+    "id": 301225,
+    "name": "Twenty Doctors",
+    "rarity": "Uncommon",
+    "collector_number": "OP08-003",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301225/twenty-doctors-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301225",
+    "card_market_ids": [
+      788311
+    ]
+  },
+  {
+    "id": 301227,
+    "name": "Kuromarimo",
+    "rarity": "Uncommon",
+    "collector_number": "OP08-004",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301227/kuromarimo-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301227",
+    "card_market_ids": [
+      788312
+    ]
+  },
+  {
+    "id": 301228,
+    "name": "Chess",
+    "rarity": "Uncommon",
+    "collector_number": "OP08-005",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301228/chess-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301228",
+    "card_market_ids": [
+      788313
+    ]
+  },
+  {
+    "id": 301229,
+    "name": "Chessmarimo",
+    "rarity": "Uncommon",
+    "collector_number": "OP08-006",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301229/chessmarimo-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301229",
+    "card_market_ids": [
+      788356
+    ]
+  },
+  {
+    "id": 301230,
+    "name": "Maria Onion Bear",
+    "rarity": "Common",
+    "collector_number": "OP08-009",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301230/maria-onion-bear-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301230",
+    "card_market_ids": [
+      788314
+    ]
+  },
+  {
+    "id": 301231,
+    "name": "Hiking Bear",
+    "rarity": "Uncommon",
+    "collector_number": "OP08-010",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301231/hiking-bear-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301231",
+    "card_market_ids": [
+      788357
+    ]
+  },
+  {
+    "id": 301233,
+    "name": "Musshuru",
+    "rarity": "Common",
+    "collector_number": "OP08-011",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301233/musshuru-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301233",
+    "card_market_ids": [
+      788315
+    ]
+  },
+  {
+    "id": 301234,
+    "name": "Lapins",
+    "rarity": "Common",
+    "collector_number": "OP08-012",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301234/lapins-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301234",
+    "card_market_ids": [
+      788358
+    ]
+  },
+  {
+    "id": 301235,
+    "name": "Robson",
+    "rarity": "Uncommon",
+    "collector_number": "OP08-013",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301235/robson-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301235",
+    "card_market_ids": [
+      788359
+    ]
+  },
+  {
+    "id": 301236,
+    "name": "I'd Never Shoot You!!!!",
+    "rarity": "Uncommon",
+    "collector_number": "OP08-017",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301236/i-d-never-shoot-you-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301236",
+    "card_market_ids": [
+      788316
+    ]
+  },
+  {
+    "id": 301238,
+    "name": "Munch-Munch Mutation",
+    "rarity": "Uncommon",
+    "collector_number": "OP08-019",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301238/munch-munch-mutation-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301238",
+    "card_market_ids": [
+      788360
+    ]
+  },
+  {
+    "id": 301239,
+    "name": "Drum Kingdom",
+    "rarity": "Common",
+    "collector_number": "OP08-020",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301239/drum-kingdom-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301239",
+    "card_market_ids": [
+      788317
+    ]
+  },
+  {
+    "id": 301240,
+    "name": "Inuarashi",
+    "rarity": "Common",
+    "collector_number": "OP08-022",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301240/inuarashi-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301240",
+    "card_market_ids": [
+      788361
+    ]
+  },
+  {
+    "id": 301242,
+    "name": "Concelot",
+    "rarity": "Uncommon",
+    "collector_number": "OP08-024",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301242/concelot-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301242",
+    "card_market_ids": [
+      788362
+    ]
+  },
+  {
+    "id": 301244,
+    "name": "Shishilian",
+    "rarity": "Common",
+    "collector_number": "OP08-025",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301244/shishilian-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301244",
+    "card_market_ids": [
+      788318
+    ]
+  },
+  {
+    "id": 301245,
+    "name": "Giovanni",
+    "rarity": "Common",
+    "collector_number": "OP08-026",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301245/giovanni-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301245",
+    "card_market_ids": [
+      788319
+    ]
+  },
+  {
+    "id": 301246,
+    "name": "Tristan",
+    "rarity": "Common",
+    "collector_number": "OP08-027",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301246/tristan-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301246",
+    "card_market_ids": [
+      788320
+    ]
+  },
+  {
+    "id": 301248,
+    "name": "Nekomamushi",
+    "rarity": "Common",
+    "collector_number": "OP08-028",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301248/nekomamushi-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301248",
+    "card_market_ids": [
+      788363
+    ]
+  },
+  {
+    "id": 301250,
+    "name": "Pekoms",
+    "rarity": "Common",
+    "collector_number": "OP08-029",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301250/pekoms-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301250",
+    "card_market_ids": [
+      788321
+    ]
+  },
+  {
+    "id": 301251,
+    "name": "Miyagi",
+    "rarity": "Common",
+    "collector_number": "OP08-031",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301251/miyagi-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301251",
+    "card_market_ids": [
+      788322
+    ]
+  },
+  {
+    "id": 301256,
+    "name": "Milky",
+    "rarity": "Uncommon",
+    "collector_number": "OP08-032",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301256/milky-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301256",
+    "card_market_ids": [
+      788364
+    ]
+  },
+  {
+    "id": 301258,
+    "name": "Roddy",
+    "rarity": "Common",
+    "collector_number": "OP08-033",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301258/roddy-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301258",
+    "card_market_ids": [
+      788323
+    ]
+  },
+  {
+    "id": 301259,
+    "name": "BB",
+    "rarity": "Common",
+    "collector_number": "OP08-035",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301259/bb-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301259",
+    "card_market_ids": [
+      788324
+    ]
+  },
+  {
+    "id": 301261,
+    "name": "We Would Never Sell a Comrade to an Enemy!!!",
+    "rarity": "Common",
+    "collector_number": "OP08-038",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301261/we-would-never-sell-a-comrade-to-an-enemy-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301261",
+    "card_market_ids": [
+      788325
+    ]
+  },
+  {
+    "id": 301262,
+    "name": "Atmos",
+    "rarity": "Uncommon",
+    "collector_number": "OP08-040",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301262/atmos-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301262",
+    "card_market_ids": [
+      788366
+    ]
+  },
+  {
+    "id": 301264,
+    "name": "Aphelandra",
+    "rarity": "Uncommon",
+    "collector_number": "OP08-041",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301264/aphelandra-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301264",
+    "card_market_ids": [
+      788326
+    ]
+  },
+  {
+    "id": 301265,
+    "name": "Edward Weevil",
+    "rarity": "Common",
+    "collector_number": "OP08-042",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301265/edward-weevil-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301265",
+    "card_market_ids": [
+      788367
+    ]
+  },
+  {
+    "id": 301274,
+    "name": "Kingdew",
+    "rarity": "Uncommon",
+    "collector_number": "OP08-044",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301274/kingdew-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301274",
+    "card_market_ids": [
+      788368
+    ]
+  },
+  {
+    "id": 301276,
+    "name": "Thatch",
+    "rarity": "Uncommon",
+    "collector_number": "OP08-045",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301276/thatch-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301276",
+    "card_market_ids": [
+      788369
+    ]
+  },
+  {
+    "id": 301278,
+    "name": "Sweetpea",
+    "rarity": "Uncommon",
+    "collector_number": "OP08-048",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301278/sweetpea-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301278",
+    "card_market_ids": [
+      788327
+    ]
+  },
+  {
+    "id": 301279,
+    "name": "Speed Jil",
+    "rarity": "Common",
+    "collector_number": "OP08-049",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301279/speed-jil-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301279",
+    "card_market_ids": [
+      788328
+    ]
+  },
+  {
+    "id": 301281,
+    "name": "Namule",
+    "rarity": "Common",
+    "collector_number": "OP08-050",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301281/namule-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301281",
+    "card_market_ids": [
+      788329
+    ]
+  },
+  {
+    "id": 301283,
+    "name": "Buckin",
+    "rarity": "Common",
+    "collector_number": "OP08-051",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301283/buckin-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301283",
+    "card_market_ids": [
+      788330
+    ]
+  },
+  {
+    "id": 301298,
+    "name": "You Can't Take Our King This Early in the Game.",
+    "rarity": "Common",
+    "collector_number": "OP08-054",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301298/you-can-t-take-our-king-this-early-in-the-game-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301298",
+    "card_market_ids": [
+      788331
+    ]
+  },
+  {
+    "id": 301301,
+    "name": "Phoenix Brand",
+    "rarity": "Uncommon",
+    "collector_number": "OP08-055",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301301/phoenix-brand-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301301",
+    "card_market_ids": [
+      788370
+    ]
+  },
+  {
+    "id": 301302,
+    "name": "Moby Dick",
+    "rarity": "Common",
+    "collector_number": "OP08-056",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301302/moby-dick-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301302",
+    "card_market_ids": [
+      788332
+    ]
+  },
+  {
+    "id": 301303,
+    "name": "Charlotte Oven",
+    "rarity": "Uncommon",
+    "collector_number": "OP08-061",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301303/charlotte-oven-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301303",
+    "card_market_ids": [
+      788372
+    ]
+  },
+  {
+    "id": 301304,
+    "name": "Charlotte Katakuri",
+    "rarity": "Uncommon",
+    "collector_number": "OP08-062",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301304/charlotte-katakuri-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301304",
+    "card_market_ids": [
+      788373
+    ]
+  },
+  {
+    "id": 301305,
+    "name": "Charlotte Cracker",
+    "rarity": "Common",
+    "collector_number": "OP08-064",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301305/charlotte-cracker-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301305",
+    "card_market_ids": [
+      788333
+    ]
+  },
+  {
+    "id": 301306,
+    "name": "Charlotte Smoothie",
+    "rarity": "Common",
+    "collector_number": "OP08-065",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301306/charlotte-smoothie-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301306",
+    "card_market_ids": [
+      788334
+    ]
+  },
+  {
+    "id": 301307,
+    "name": "Charlotte Brulee",
+    "rarity": "Uncommon",
+    "collector_number": "OP08-066",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301307/charlotte-brulee-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301307",
+    "card_market_ids": [
+      788374
+    ]
+  },
+  {
+    "id": 301308,
+    "name": "Charlotte Perospero",
+    "rarity": "Common",
+    "collector_number": "OP08-068",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301308/charlotte-perospero-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301308",
+    "card_market_ids": [
+      788335
+    ]
+  },
+  {
+    "id": 301309,
+    "name": "Baron Tamago",
+    "rarity": "Common",
+    "collector_number": "OP08-070",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301309/baron-tamago-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301309",
+    "card_market_ids": [
+      788336
+    ]
+  },
+  {
+    "id": 301310,
+    "name": "Count Niwatori",
+    "rarity": "Common",
+    "collector_number": "OP08-071",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301310/count-niwatori-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301310",
+    "card_market_ids": [
+      788337
+    ]
+  },
+  {
+    "id": 301311,
+    "name": "Biscuit Warrior",
+    "rarity": "Common",
+    "collector_number": "OP08-072",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301311/biscuit-warrior-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301311",
+    "card_market_ids": [
+      788338
+    ]
+  },
+  {
+    "id": 301312,
+    "name": "Viscount Hiyoko",
+    "rarity": "Common",
+    "collector_number": "OP08-073",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301312/viscount-hiyoko-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301312",
+    "card_market_ids": [
+      788339
+    ]
+  },
+  {
+    "id": 301313,
+    "name": "Candy Maiden",
+    "rarity": "Common",
+    "collector_number": "OP08-075",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301313/candy-maiden-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301313",
+    "card_market_ids": [
+      788340
+    ]
+  },
+  {
+    "id": 301314,
+    "name": "It's to Die For...",
+    "rarity": "Common",
+    "collector_number": "OP08-076",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301314/it-s-to-die-for-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301314",
+    "card_market_ids": [
+      788375
+    ]
+  },
+  {
+    "id": 301315,
+    "name": "Ulti",
+    "rarity": "Common",
+    "collector_number": "OP08-078",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301315/ulti-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301315",
+    "card_market_ids": [
+      788341
+    ]
+  },
+  {
+    "id": 301316,
+    "name": "Guernica",
+    "rarity": "Common",
+    "collector_number": "OP08-081",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301316/guernica-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301316",
+    "card_market_ids": [
+      788342
+    ]
+  },
+  {
+    "id": 301317,
+    "name": "Sheepshead",
+    "rarity": "Common",
+    "collector_number": "OP08-083",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301317/sheepshead-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301317",
+    "card_market_ids": [
+      788376
+    ]
+  },
+  {
+    "id": 301318,
+    "name": "Jinbe",
+    "rarity": "Common",
+    "collector_number": "OP08-085",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301318/jinbe-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301318",
+    "card_market_ids": [
+      788377
+    ]
+  },
+  {
+    "id": 301319,
+    "name": "Ginrummy",
+    "rarity": "Common",
+    "collector_number": "OP08-086",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301319/ginrummy-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301319",
+    "card_market_ids": [
+      788343
+    ]
+  },
+  {
+    "id": 301320,
+    "name": "Scratchmen Apoo",
+    "rarity": "Common",
+    "collector_number": "OP08-087",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301320/scratchmen-apoo-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301320",
+    "card_market_ids": [
+      788378
+    ]
+  },
+  {
+    "id": 301321,
+    "name": "Duval",
+    "rarity": "Common",
+    "collector_number": "OP08-088",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301321/duval-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301321",
+    "card_market_ids": [
+      788379
+    ]
+  },
+  {
+    "id": 301322,
+    "name": "Basil Hawkins",
+    "rarity": "Common",
+    "collector_number": "OP08-089",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301322/basil-hawkins-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301322",
+    "card_market_ids": [
+      788344
+    ]
+  },
+  {
+    "id": 301323,
+    "name": "Hamlet",
+    "rarity": "Common",
+    "collector_number": "OP08-090",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301323/hamlet-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301323",
+    "card_market_ids": [
+      788345
+    ]
+  },
+  {
+    "id": 301324,
+    "name": "X.Drake",
+    "rarity": "Common",
+    "collector_number": "OP08-093",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301324/x-drake-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301324",
+    "card_market_ids": [
+      788346
+    ]
+  },
+  {
+    "id": 301325,
+    "name": "Iron Body Fang Flash",
+    "rarity": "Uncommon",
+    "collector_number": "OP08-095",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301325/iron-body-fang-flash-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301325",
+    "card_market_ids": [
+      788380
+    ]
+  },
+  {
+    "id": 301326,
+    "name": "People's Dreams Don't Ever End!!",
+    "rarity": "Common",
+    "collector_number": "OP08-096",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301326/people-s-dreams-don-t-ever-end-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301326",
+    "card_market_ids": [
+      788347
+    ]
+  },
+  {
+    "id": 301327,
+    "name": "Heliceratops",
+    "rarity": "Common",
+    "collector_number": "OP08-097",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301327/heliceratops-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301327",
+    "card_market_ids": [
+      788348
+    ]
+  },
+  {
+    "id": 301328,
+    "name": "Kalgara",
+    "rarity": "Common",
+    "collector_number": "OP08-099",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301328/kalgara-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301328",
+    "card_market_ids": [
+      788349
+    ]
+  },
+  {
+    "id": 301329,
+    "name": "South Bird",
+    "rarity": "Uncommon",
+    "collector_number": "OP08-100",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301329/south-bird-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301329",
+    "card_market_ids": [
+      788381
+    ]
+  },
+  {
+    "id": 301330,
+    "name": "Charlotte Angel",
+    "rarity": "Common",
+    "collector_number": "OP08-101",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301330/charlotte-angel-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301330",
+    "card_market_ids": [
+      788350
+    ]
+  },
+  {
+    "id": 301331,
+    "name": "Charlotte Opera",
+    "rarity": "Uncommon",
+    "collector_number": "OP08-102",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301331/charlotte-opera-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301331",
+    "card_market_ids": [
+      788382
+    ]
+  },
+  {
+    "id": 301332,
+    "name": "Charlotte Custard",
+    "rarity": "Uncommon",
+    "collector_number": "OP08-103",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301332/charlotte-custard-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301332",
+    "card_market_ids": [
+      788383
+    ]
+  },
+  {
+    "id": 301333,
+    "name": "Charlotte Poire",
+    "rarity": "Common",
+    "collector_number": "OP08-104",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301333/charlotte-poire-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301333",
+    "card_market_ids": [
+      788351
+    ]
+  },
+  {
+    "id": 301334,
+    "name": "Nitro",
+    "rarity": "Common",
+    "collector_number": "OP08-107",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301334/nitro-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301334",
+    "card_market_ids": [
+      788352
+    ]
+  },
+  {
+    "id": 301335,
+    "name": "Mont Blanc Cricket",
+    "rarity": "Common",
+    "collector_number": "OP08-108",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301335/mont-blanc-cricket-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301335",
+    "card_market_ids": [
+      788353
+    ]
+  },
+  {
+    "id": 301336,
+    "name": "S-Shark",
+    "rarity": "Common",
+    "collector_number": "OP08-111",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301336/s-shark-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301336",
+    "card_market_ids": [
+      788384
+    ]
+  },
+  {
+    "id": 301337,
+    "name": "S-Bear",
+    "rarity": "Common",
+    "collector_number": "OP08-113",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301337/s-bear-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301337",
+    "card_market_ids": [
+      788354
+    ]
+  },
+  {
+    "id": 301338,
+    "name": "Burn Bazooka",
+    "rarity": "Common",
+    "collector_number": "OP08-116",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301338/burn-bazooka-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301338",
+    "card_market_ids": [
+      788355
+    ]
+  },
+  {
+    "id": 301339,
+    "name": "Burn Blade",
+    "rarity": "Uncommon",
+    "collector_number": "OP08-117",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301339/burn-blade-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301339",
+    "card_market_ids": [
+      788385
+    ]
+  },
+  {
+    "id": 301340,
+    "name": "Garchu",
+    "rarity": "Uncommon",
+    "collector_number": "OP08-037",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/301340/garchu-pre-release-stamp-op-08-two-legends-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/301340",
+    "card_market_ids": [
+      788365
+    ]
+  }
+]

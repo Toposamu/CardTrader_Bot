@@ -1,0 +1,28 @@
+{
+  "condition": [
+    "Near Mint",
+    "Slightly Played",
+    "Moderately Played",
+    "Played",
+    "Poor"
+  ],
+  "onepiece_language": [
+    "en",
+    "jp",
+    "zh-CN",
+    "kr",
+    "fr"
+  ],
+  "onepiece_rarity": [
+    "Common",
+    "Uncommon",
+    "Rare",
+    "Super Rare",
+    "Secret Rare",
+    "Alternate Art",
+    "DON!!",
+    "Leader",
+    "Promo",
+    "Special"
+  ]
+}

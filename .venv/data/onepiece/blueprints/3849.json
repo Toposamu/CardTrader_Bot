@@ -1,0 +1,153 @@
+[
+  {
+    "id": 305490,
+    "name": "Atmos",
+    "rarity": "Common",
+    "collector_number": "ST15-001",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/305490/atmos-st-15-starter-deck-edward-newgate.jpg",
+    "card_url": "https://www.cardtrader.com/cards/305490",
+    "card_market_ids": []
+  },
+  {
+    "id": 305491,
+    "name": "Thatch",
+    "rarity": "Common",
+    "collector_number": "ST15-004",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/305491/thatch-st-15-starter-deck-edward-newgate.jpg",
+    "card_url": "https://www.cardtrader.com/cards/305491",
+    "card_market_ids": [
+      794632
+    ]
+  },
+  {
+    "id": 305492,
+    "name": "Speed Jil",
+    "rarity": "Common",
+    "collector_number": "OP03-006",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/305492/speed-jil-st-15-starter-deck-edward-newgate.jpg",
+    "card_url": "https://www.cardtrader.com/cards/305492",
+    "card_market_ids": []
+  },
+  {
+    "id": 305493,
+    "name": "Rakuyo",
+    "rarity": "Uncommon",
+    "collector_number": "OP02-019",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/305493/rakuyo-st-15-starter-deck-edward-newgate.jpg",
+    "card_url": "https://www.cardtrader.com/cards/305493",
+    "card_market_ids": []
+  },
+  {
+    "id": 305494,
+    "name": "Portgas.D.Ace",
+    "rarity": "Super Rare",
+    "collector_number": "ST15-005",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/305494/portgas-d-ace-st-15-starter-deck-edward-newgate.jpg",
+    "card_url": "https://www.cardtrader.com/cards/305494",
+    "card_market_ids": [
+      794633
+    ]
+  },
+  {
+    "id": 305495,
+    "name": "Namule",
+    "rarity": "Common",
+    "collector_number": "OP03-007",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/305495/namule-st-15-starter-deck-edward-newgate.jpg",
+    "card_url": "https://www.cardtrader.com/cards/305495",
+    "card_market_ids": []
+  },
+  {
+    "id": 305496,
+    "name": "Marco",
+    "rarity": "Rare",
+    "collector_number": "OP02-018",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/305496/marco-st-15-starter-deck-edward-newgate.jpg",
+    "card_url": "https://www.cardtrader.com/cards/305496",
+    "card_market_ids": [
+      794628
+    ]
+  },
+  {
+    "id": 305497,
+    "name": "Kingdew",
+    "rarity": "Common",
+    "collector_number": "ST15-003",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/305497/kingdew-st-15-starter-deck-edward-newgate.jpg",
+    "card_url": "https://www.cardtrader.com/cards/305497",
+    "card_market_ids": [
+      794631
+    ]
+  },
+  {
+    "id": 305498,
+    "name": "Jozu",
+    "rarity": "Rare",
+    "collector_number": "OP02-008",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/305498/jozu-st-15-starter-deck-edward-newgate.jpg",
+    "card_url": "https://www.cardtrader.com/cards/305498",
+    "card_market_ids": [
+      794627
+    ]
+  },
+  {
+    "id": 305499,
+    "name": "Izo",
+    "rarity": "Rare",
+    "collector_number": "OP03-003",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/305499/izo-st-15-starter-deck-edward-newgate.jpg",
+    "card_url": "https://www.cardtrader.com/cards/305499",
+    "card_market_ids": [
+      794629
+    ]
+  },
+  {
+    "id": 305500,
+    "name": "Fossa",
+    "rarity": "Common",
+    "collector_number": "OP03-010",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/305500/fossa-st-15-starter-deck-edward-newgate.jpg",
+    "card_url": "https://www.cardtrader.com/cards/305500",
+    "card_market_ids": []
+  },
+  {
+    "id": 305501,
+    "name": "Haruta",
+    "rarity": "Common",
+    "collector_number": "OP03-009",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/305501/haruta-st-15-starter-deck-edward-newgate.jpg",
+    "card_url": "https://www.cardtrader.com/cards/305501",
+    "card_market_ids": []
+  },
+  {
+    "id": 305502,
+    "name": "Edward.Newgate",
+    "rarity": "Super Rare",
+    "collector_number": "ST15-002",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/305502/edward-newgate-st-15-starter-deck-edward-newgate.jpg",
+    "card_url": "https://www.cardtrader.com/cards/305502",
+    "card_market_ids": [
+      794630
+    ]
+  },
+  {
+    "id": 305503,
+    "name": "Edward.Newgate",
+    "rarity": "Leader",
+    "collector_number": "OP02-001",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/305503/edward-newgate-st-15-starter-deck-edward-newgate-305503.jpg",
+    "card_url": "https://www.cardtrader.com/cards/305503",
+    "card_market_ids": [
+      794626
+    ]
+  },
+  {
+    "id": 305504,
+    "name": "You May Be a Fool...but I Still Love You",
+    "rarity": "Common",
+    "collector_number": "OP02-023",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/305504/you-may-be-a-fool-but-i-still-love-you-st-15-starter-deck-edward-newgate.jpg",
+    "card_url": "https://www.cardtrader.com/cards/305504",
+    "card_market_ids": []
+  }
+]

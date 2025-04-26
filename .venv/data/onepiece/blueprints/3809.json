@@ -1,0 +1,460 @@
+[
+  {
+    "id": 244675,
+    "name": "Franky",
+    "rarity": "Promo",
+    "collector_number": "OP01-021",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/244675/franky-tournament-pack-vol-2-unnumbered-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/244675",
+    "card_market_ids": [
+      696652
+    ]
+  },
+  {
+    "id": 244677,
+    "name": "Black Maria",
+    "rarity": "Promo",
+    "collector_number": "ST04-011",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/244677/black-maria-tournament-pack-vol-2-unnumbered-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/244677",
+    "card_market_ids": [
+      696656
+    ]
+  },
+  {
+    "id": 244682,
+    "name": "Izo",
+    "rarity": "Promo",
+    "collector_number": "OP01-033",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/244682/izo-tournament-pack-vol-2-unnumbered-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/244682",
+    "card_market_ids": [
+      696654
+    ]
+  },
+  {
+    "id": 250644,
+    "name": "Monkey.D.Luffy",
+    "rarity": "Promo",
+    "collector_number": "P-006",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/250644/monkey-d-luffy-tournament-pack-vol-1-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/250644",
+    "card_market_ids": [
+      691237
+    ]
+  },
+  {
+    "id": 250655,
+    "name": "Monkey.D.Luffy",
+    "rarity": "Promo",
+    "collector_number": "P-007",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/250655/monkey-d-luffy-tournament-pack-vol-1-promos-250655.jpg",
+    "card_url": "https://www.cardtrader.com/cards/250655",
+    "card_market_ids": [
+      691238
+    ]
+  },
+  {
+    "id": 250657,
+    "name": "Yamato",
+    "rarity": "Promo",
+    "collector_number": "P-008",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/250657/yamato-tournament-pack-vol-1-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/250657",
+    "card_market_ids": [
+      691239
+    ]
+  },
+  {
+    "id": 264940,
+    "name": "Okiku",
+    "rarity": "Promo",
+    "collector_number": "OP01-035",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/264940/okiku-tournament-pack-vol-4-unnumbered-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/264940",
+    "card_market_ids": [
+      704112
+    ]
+  },
+  {
+    "id": 264947,
+    "name": "Sentomaru",
+    "rarity": "Promo",
+    "collector_number": "ST03-007",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/264947/sentomaru-tournament-pack-vol-3-unnumbered-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/264947",
+    "card_market_ids": [
+      696719
+    ]
+  },
+  {
+    "id": 264950,
+    "name": "Tashigi",
+    "rarity": "Promo",
+    "collector_number": "ST06-006",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/264950/tashigi-tournament-pack-vol-4-unnumbered-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/264950",
+    "card_market_ids": [
+      704119
+    ]
+  },
+  {
+    "id": 264958,
+    "name": "Who's.Who",
+    "rarity": "Promo",
+    "collector_number": "ST04-010",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/264958/who-s-who-tournament-pack-vol-3-unnumbered-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/264958",
+    "card_market_ids": [
+      696720
+    ]
+  },
+  {
+    "id": 267419,
+    "name": "Trafalgar Law",
+    "rarity": "Promo",
+    "collector_number": "P-009",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/267419/trafalgar-law-tournament-pack-vol-1-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/267419",
+    "card_market_ids": [
+      691240
+    ]
+  },
+  {
+    "id": 272366,
+    "name": "Crocodile",
+    "rarity": "Promo",
+    "collector_number": "ST03-003",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/272366/crocodile-tournament-pack-vol-5-unnumbered-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/272366",
+    "card_market_ids": [
+      743383
+    ]
+  },
+  {
+    "id": 272367,
+    "name": "Monkey.D.Luffy",
+    "rarity": "Promo",
+    "collector_number": "ST01-012",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/272367/monkey-d-luffy-tournament-pack-vol-5-unnumbered-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/272367",
+    "card_market_ids": [
+      749434
+    ]
+  },
+  {
+    "id": 272369,
+    "name": "Eustass\"Captain\"Kid",
+    "rarity": "Promo",
+    "collector_number": "ST02-013",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/272369/eustass-captain-kid-tournament-pack-vol-5-unnumbered-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/272369",
+    "card_market_ids": [
+      749432
+    ]
+  },
+  {
+    "id": 272371,
+    "name": "Kaido",
+    "rarity": "Promo",
+    "collector_number": "ST04-003",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/272371/kaido-tournament-pack-vol-5-unnumbered-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/272371",
+    "card_market_ids": [
+      749430
+    ]
+  },
+  {
+    "id": 284019,
+    "name": "Shirahoshi",
+    "rarity": "Promo",
+    "collector_number": "OP03-116",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/284019/shirahoshi-tournament-pack-vol-6-unnumbered-promos.png",
+    "card_url": "https://www.cardtrader.com/cards/284019",
+    "card_market_ids": [
+      754938
+    ]
+  },
+  {
+    "id": 284020,
+    "name": "Kaya",
+    "rarity": "Promo",
+    "collector_number": "OP03-044",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/284020/kaya-tournament-pack-vol-6-unnumbered-promos.png",
+    "card_url": "https://www.cardtrader.com/cards/284020",
+    "card_market_ids": [
+      754934
+    ]
+  },
+  {
+    "id": 284021,
+    "name": "Hatchan",
+    "rarity": "Promo",
+    "collector_number": "OP03-033",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/284021/hatchan-tournament-pack-vol-6-unnumbered-promos.png",
+    "card_url": "https://www.cardtrader.com/cards/284021",
+    "card_market_ids": [
+      754932
+    ]
+  },
+  {
+    "id": 284022,
+    "name": "Fukurou",
+    "rarity": "Promo",
+    "collector_number": "OP03-088",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/284022/fukurou-tournament-pack-vol-6-unnumbered-promos.png",
+    "card_url": "https://www.cardtrader.com/cards/284022",
+    "card_market_ids": [
+      754936
+    ]
+  },
+  {
+    "id": 295260,
+    "name": "Bepo",
+    "rarity": "Promo",
+    "collector_number": "P-019",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/295260/bepo-tournament-pack-vol-7-unnumbered-promos.jpg",
+    "card_url": "https://www.cardtrader.com/cards/295260",
+    "card_market_ids": [
+      777164
+    ]
+  },
+  {
+    "id": 295298,
+    "name": "Kouzuki Momonosuke",
+    "rarity": "Promo",
+    "collector_number": "OP01-041",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/295298/kouzuki-momonosuke-tournament-pack-vol-7-tournament-pack.jpg",
+    "card_url": "https://www.cardtrader.com/cards/295298",
+    "card_market_ids": [
+      777158
+    ]
+  },
+  {
+    "id": 295302,
+    "name": "Shura",
+    "rarity": "Promo",
+    "collector_number": "OP05-106",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/295302/shura-tournament-pack-vol-7-tournament-pack.jpg",
+    "card_url": "https://www.cardtrader.com/cards/295302",
+    "card_market_ids": [
+      777160
+    ]
+  },
+  {
+    "id": 295312,
+    "name": "Trafalgar Law",
+    "rarity": "Promo",
+    "collector_number": "P-017",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/295312/trafalgar-law-tournament-pack-vol-7-tournament-pack.jpg",
+    "card_url": "https://www.cardtrader.com/cards/295312",
+    "card_market_ids": [
+      777162,
+      756313
+    ]
+  },
+  {
+    "id": 295882,
+    "name": "Hatchan",
+    "rarity": "Promo",
+    "collector_number": "OP03-033",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/295882/hatchan-celebration-pack-tournament-pack.png",
+    "card_url": "https://www.cardtrader.com/cards/295882",
+    "card_market_ids": []
+  },
+  {
+    "id": 295884,
+    "name": "Fukurou",
+    "rarity": "Promo",
+    "collector_number": "OP03-088",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/295884/fukurou-celebration-pack-tournament-pack.png",
+    "card_url": "https://www.cardtrader.com/cards/295884",
+    "card_market_ids": []
+  },
+  {
+    "id": 295886,
+    "name": "Shura",
+    "rarity": "Promo",
+    "collector_number": "OP05-106",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/295886/shura-celebration-pack-tournament-pack.png",
+    "card_url": "https://www.cardtrader.com/cards/295886",
+    "card_market_ids": []
+  },
+  {
+    "id": 295890,
+    "name": "Crocodile",
+    "rarity": "Promo",
+    "collector_number": "ST03-003",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/295890/crocodile-celebration-pack-tournament-pack.png",
+    "card_url": "https://www.cardtrader.com/cards/295890",
+    "card_market_ids": []
+  },
+  {
+    "id": 295891,
+    "name": "Kaido",
+    "rarity": "Promo",
+    "collector_number": "ST04-003",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/295891/kaido-celebration-pack-tournament-pack.png",
+    "card_url": "https://www.cardtrader.com/cards/295891",
+    "card_market_ids": []
+  },
+  {
+    "id": 315158,
+    "name": "Charlotte Pudding",
+    "rarity": "Promo",
+    "collector_number": "OP03-112",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/315158/charlotte-pudding-tournament-pack-2024-oct-dec-tournament-pack.webp",
+    "card_url": "https://www.cardtrader.com/cards/315158",
+    "card_market_ids": [
+      794885
+    ]
+  },
+  {
+    "id": 315160,
+    "name": "Tony Tony.Chopper",
+    "rarity": "Promo",
+    "collector_number": "OP04-010",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/315160/tony-tony-chopper-tournament-pack-2024-oct-dec-tournament-pack.webp",
+    "card_url": "https://www.cardtrader.com/cards/315160",
+    "card_market_ids": [
+      794887
+    ]
+  },
+  {
+    "id": 315162,
+    "name": "Edison",
+    "rarity": "Promo",
+    "collector_number": "OP07-100",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/315162/edison-tournament-pack-2024-oct-dec-tournament-pack.webp",
+    "card_url": "https://www.cardtrader.com/cards/315162",
+    "card_market_ids": [
+      794891
+    ]
+  },
+  {
+    "id": 315164,
+    "name": "Portgas.D.Ace",
+    "rarity": "Promo",
+    "collector_number": "OP07-053",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/315164/portgas-d-ace-tournament-pack-2024-oct-dec-tournament-pack.webp",
+    "card_url": "https://www.cardtrader.com/cards/315164",
+    "card_market_ids": [
+      794889
+    ]
+  },
+  {
+    "id": 315166,
+    "name": "Sanji",
+    "rarity": "Promo",
+    "collector_number": "EB01-014",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/315166/sanji-tournament-pack-2025-vol-1-tournament-pack.webp",
+    "card_url": "https://www.cardtrader.com/cards/315166",
+    "card_market_ids": []
+  },
+  {
+    "id": 315167,
+    "name": "Charlotte Pudding",
+    "rarity": "Promo",
+    "collector_number": "OP06-047",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/315167/charlotte-pudding-tournament-pack-2025-vol-1-tournament-pack.webp",
+    "card_url": "https://www.cardtrader.com/cards/315167",
+    "card_market_ids": [
+      806196
+    ]
+  },
+  {
+    "id": 315168,
+    "name": "Hitokiri Kamazo",
+    "rarity": "Promo",
+    "collector_number": "OP06-076",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/315168/hitokiri-kamazo-tournament-pack-2025-vol-1-tournament-pack.webp",
+    "card_url": "https://www.cardtrader.com/cards/315168",
+    "card_market_ids": []
+  },
+  {
+    "id": 315169,
+    "name": "Kaku",
+    "rarity": "Promo",
+    "collector_number": "OP07-080",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/315169/kaku-tournament-pack-2025-vol-1-tournament-pack.webp",
+    "card_url": "https://www.cardtrader.com/cards/315169",
+    "card_market_ids": []
+  },
+  {
+    "id": 326620,
+    "name": "Rebecca",
+    "rarity": "Promo",
+    "collector_number": "OP04-092",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/326620/rebecca-winner-tournament-pack.webp",
+    "card_url": "https://www.cardtrader.com/cards/326620",
+    "card_market_ids": [
+      817581
+    ]
+  },
+  {
+    "id": 326622,
+    "name": "Scratchmen Apoo",
+    "rarity": "Promo",
+    "collector_number": "EB01-015",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/326622/scratchmen-apoo-tournament-pack.webp",
+    "card_url": "https://www.cardtrader.com/cards/326622",
+    "card_market_ids": [
+      817583
+    ]
+  },
+  {
+    "id": 326624,
+    "name": "Wyper",
+    "rarity": "Promo",
+    "collector_number": "OP08-110",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/326624/wyper-tournament-pack.webp",
+    "card_url": "https://www.cardtrader.com/cards/326624",
+    "card_market_ids": [
+      817585
+    ]
+  },
+  {
+    "id": 326627,
+    "name": "Hongo",
+    "rarity": "Promo",
+    "collector_number": "OP09-011",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/326627/hongo-tournament-pack.webp",
+    "card_url": "https://www.cardtrader.com/cards/326627",
+    "card_market_ids": [
+      817587
+    ]
+  },
+  {
+    "id": 326629,
+    "name": "Roronoa Zoro",
+    "rarity": "Promo",
+    "collector_number": "OP07-113",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/326629/roronoa-zoro-one-piece-day-dallas-2025-tournament-pack.jpg",
+    "card_url": "https://www.cardtrader.com/cards/326629",
+    "card_market_ids": [
+      817805
+    ]
+  },
+  {
+    "id": 326630,
+    "name": "Monkey.D.Luffy",
+    "rarity": "Promo",
+    "collector_number": "ST10-006",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/326630/monkey-d-luffy-one-piece-day-dallas-2025-tournament-pack.jpg",
+    "card_url": "https://www.cardtrader.com/cards/326630",
+    "card_market_ids": [
+      817806
+    ]
+  },
+  {
+    "id": 326659,
+    "name": "Monkey.D.Luffy",
+    "rarity": "Promo",
+    "collector_number": "OP07-113",
+    "image_url": "https://cardtrader.com/uploads/blueprints/image/326659/monkey-d-luffy-borussia-dortmund-2025-promo-tournament-pack(2).jpg",
+    "card_url": "https://www.cardtrader.com/cards/326659",
+    "card_market_ids": [
+      818116
+    ]
+  }
+]
